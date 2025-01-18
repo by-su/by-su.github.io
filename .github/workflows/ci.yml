@@ -14,8 +14,6 @@ on:
       - LICENSE
   pull_request:
     paths-ignore:
-      - ".github/**"
-      - "!.github/workflows/ci.yml"
       - .gitignore
       - "docs/**"
       - README.md
