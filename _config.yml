@@ -24,6 +24,9 @@ github:
 
 avatar: "/assets/profile.JPG"
 
+sitemap:
+  path: "/sitemap.xml"
+
 # # Site Verification Settings
 webmaster_verifications:
   google: 5V_mwuDuGUk0BXX_KT5Tl-LpskD-fwioRze4TIaDibU
@@ -147,6 +150,7 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - robots.txt
 
 jekyll-archives:
   enabled: [categories, tags]
