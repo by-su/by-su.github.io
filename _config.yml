@@ -69,7 +69,7 @@ social:
 toc: true
 
 comments:
-  # utterances settings › https://utteranc.es/
+  provider: "utterances"
   utterances:
     repo: by-su/by-su.github.io
     issue_term: pathname

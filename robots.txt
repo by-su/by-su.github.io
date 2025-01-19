@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /norobots/
+
 Sitemap: https://by-su.github.io/sitemap.xml
