@@ -22,7 +22,7 @@ url: "https://by-su.github.io"
 github:
   username: by-su # change to your GitHub username
 
-avatar: /assets/profile.jpg
+avatar: /assets/img/profile.jpg
 
 sitemap:
   path: "/sitemap.xml"
